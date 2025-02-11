@@ -1,0 +1,14 @@
+<package format="3">
+  <name>libdatachannel</name>
+  <version>0.0.1</version>
+  <description>WebRTC Data Channel Wrapper</description>
+  <maintainer email="michael.kim@chancemaritime.com">Michael Kim</maintainer>
+  <license>Mozilla</license>
+  <author>paullouisagenueau</author>
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+<export>
+  <build_type>ament_cmake</build_type>
+</export>
+
+</package>
